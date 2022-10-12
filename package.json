@@ -1,0 +1,26 @@
+{
+  "name": "taskbar-hider",
+  "version": "1.0.0",
+  "description": "NPM package that provide hiding windows taskbar",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pash2048/taskbar-hider.git"
+  },
+  "keywords": [
+    "taskbar",
+    "hider",
+    "taskbar-hider",
+    "windows"
+  ],
+  "author": "Javad Jazandari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pash2048/taskbar-hider/issues"
+  },
+  "homepage": "https://github.com/pash2048/taskbar-hider#readme",
+  "os": [
+    "win32"
+  ],
+  "gypfile": true
+}
