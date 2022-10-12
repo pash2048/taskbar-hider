@@ -1,6 +1,6 @@
 {
   "name": "taskbar-hider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM package that provide hiding windows taskbar",
   "main": "index.js",
   "repository": {
